@@ -1,0 +1,83 @@
+body{
+    background-image: url("back.jpg");
+}
+
+#years{
+    color: gold;
+    font-size: 30px;
+}
+
+#tja{
+    color: rgb(0, 255, 0);
+    text-align: center;
+}
+
+#tjb{
+    color: rgb(0, 255, 0);
+    text-align: center;
+}
+
+#tjc{
+    color: rgb(0, 255, 0);
+    text-align: center;
+}
+
+#tjd{
+    color: rgb(0, 225, 255);
+    text-align: center;
+}
+
+#tje{
+    color: rgb(0, 225, 255);
+    text-align: center;
+}
+
+#tjf{
+    color: rgb(0, 225, 255);
+    text-align: center;
+}
+
+#tjg{
+    color: rgb(195, 0, 255);
+    text-align: center;
+}
+
+#tjh{
+    color: rgb(195, 0, 255);
+    text-align: center;
+}
+
+#tji{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+#txr{
+    color: rgb(255, 255, 0);
+    text-align: center;
+}
+
+#thl{
+    color: rgb(0, 225, 255);
+    text-align: left;
+}
+
+#txl{
+    color: rgb(0, 225, 255);
+    text-align: left;
+}
+
+#bt1{
+    border-radius: 15px;
+    text-align: left;
+}
+
+#bt2{
+    border-radius: 15px;
+    text-align: left;
+}
+
+#bt3{
+    border-radius: 15px;
+    text-align: left;
+}
